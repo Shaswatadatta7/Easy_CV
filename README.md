@@ -22,6 +22,8 @@ Run in Terminal.
 
 ```sh
 pip install Easy-CV==0.1
+```
+
 #dummy code:
 ```sh
 from Easy_CV import HandTracker, handDetector
