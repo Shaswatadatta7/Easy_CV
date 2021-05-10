@@ -1,1 +1,0 @@
-from Easy_CV.HandTracker import handDetector
