@@ -21,7 +21,7 @@ Easy_CV uses a number of open source projects to work properly:
 Run in Terminal.
 
 ```sh
-pip install Easy-CV==0.1
+pip install Easy-CV
 ```
 
 #dummy code:
